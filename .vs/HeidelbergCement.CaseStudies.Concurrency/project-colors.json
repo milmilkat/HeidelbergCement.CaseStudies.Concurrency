@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "743dec6a-da90-4a91-8293-ec69ca3410cc": {
+      "ProjectGuid": "743dec6a-da90-4a91-8293-ec69ca3410cc",
+      "DisplayName": "HeidelbergCement.CaseStudies.Concurrency.Infrastructure",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
